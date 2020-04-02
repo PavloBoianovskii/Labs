@@ -1,0 +1,60 @@
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Data.dll
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.dll
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Graphviz.dll
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Serialization.dll
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\bin\Debug\System.Collections.Immutable.dll
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.xml
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Data.xml
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Graphviz.xml
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Serialization.xml
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\bin\Debug\System.Collections.Immutable.xml
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\obj\Debug\lab5.csproj.GenerateResource.Cache
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+D:\НУЛП\Дискретні моделі в САПР\Lab5\Lab_5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Data.dll
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.dll
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\System.Collections.Immutable.dll
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.xml
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Data.xml
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\System.Collections.Immutable.xml
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\lab5.csproj.CopyComplete
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\sasha\Desktop\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Data.dll
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.dll
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Graphviz.dll
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Serialization.dll
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\System.Collections.Immutable.dll
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.xml
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Data.xml
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Graphviz.xml
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\QuickGraph.Serialization.xml
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\bin\Debug\System.Collections.Immutable.xml
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\lab5.csprojAssemblyReference.cache
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\lab5.csproj.GenerateResource.cache
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\lab5.csproj.CopyComplete
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+D:\Курс 4\Семестр 2\Дискретні моделі в системному проектуванні\Lab_5 (2)\Lab_5 (2)\Lab_5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
